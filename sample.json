@@ -1,0 +1,10 @@
+{
+    "title":"My first uploaded RTE article",
+    "content":"<h1>Article Title</h1><p>This is my first uploaded article from JSON File.</p><h2>Format</h2><p>RTE</p>",
+    "person": {
+        "id": "3"
+        },
+    "content_input_type":"rte",
+    "status":"published",
+    "categories": ["1"]
+}
